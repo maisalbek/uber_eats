@@ -5,3 +5,5 @@ buttons.forEach((but) => {
     this.classList.add("active");
   });
 });
+
+console.log("FUNC");
